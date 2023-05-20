@@ -1,4 +1,4 @@
-# Soundpack-for-Telegram
+# Soundpack for Telegram
 Hello, This is SoundPack bot.
 
 I was inspired by stickers and thought it was a good idea to use sets of short sounds instead of images to convey emotions in chat. 
@@ -12,4 +12,4 @@ It is important to differentiate sounds from voice messages, so a new visual rep
 According to this idea, each sound corresponds to its own image.
 
 # How to launch
-To host this bot you need to create file named "tgtoken.py" with string variable token = <your token>
+To host this bot you need to create file named "tgtoken.py" with string variable token = [your token]
